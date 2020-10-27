@@ -1,0 +1,21 @@
+Condições para ser um triangulo:
+
+A soma dos 3 angulos internos ser igual a 180 graus.
+
+| b - c | < a < b + c
+| a - c | < b < a + c
+| a - b | < c < a + b
+
+Classificação do triangulo:
+
+Quanto ao lado:
+
+triangulo escaleno: todos os angulos são diferentes
+triangulo isosceles: dois lados iguais e angulos opostos a esses dois lados iguais
+triangulo equilatero: todos os lados iguais
+
+Quanto ao angulo interno:
+
+retangulo: um angulo mede 90 graus.
+obtusangulo: um angulo maior que 90 graus
+acutangulo: todos os angulos menores que 90 graus
